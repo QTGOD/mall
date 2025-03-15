@@ -10,3 +10,4 @@
 **/.mvn
 **/mvn
 **/mvnw.cmd
+**/target
